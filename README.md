@@ -1,6 +1,6 @@
 # Hello, I'm Nyaleph 👋
 
-![GitHub followers](https://img.shields.io/github/followers/NyalephTheCat?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/NyalephTheCat?affiliations=OWNER%2CCOLLABORATOR)
+![GitHub followers](https://img.shields.io/github/followers/NyalephTheCat?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/NyalephTheCat?affiliations=OWNER%2CCOLLABORATOR) 
 
 - 🌱 I’m currently learning **Computer science and imaging**
 - 📫 How to reach me: **contact@nyaleph.com**
